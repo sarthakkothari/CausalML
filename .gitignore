@@ -1,0 +1,8 @@
+*.pdf
+*.html
+*.rmd
+Project/
+DeconfoundingMovie/*
+.R*
+.DS*
+Decon*
